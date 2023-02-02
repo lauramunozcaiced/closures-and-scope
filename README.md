@@ -36,3 +36,4 @@ La accesibilidad de las varibles está dada por la posición de las mismas.
 Javascript inicializa en el inicio del código, todas las variables que están siendo usadas y las define como undefined, Si una variable no está inicializada o definida antes de llamarla, esta retornará como undefined.
 
 ## Debugging
+Existen formas de hacer debugging con javascript, en esta clase vimos el debugger();
