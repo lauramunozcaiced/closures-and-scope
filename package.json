@@ -1,0 +1,20 @@
+{
+  "name": "closures-and-scope",
+  "version": "1.0.0",
+  "description": "Práctica para dominar el tema de los Closures y el Scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauramunozcaiced/closures-and-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauramunozcaiced/closures-and-scope/issues"
+  },
+  "homepage": "https://github.com/lauramunozcaiced/closures-and-scope#readme"
+}
